@@ -1,5 +1,3 @@
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=solodba&show_icons=true&theme=tokyonight" /> </div>
-  
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
@@ -11,3 +9,5 @@
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=solodba&show_icons=true&theme=tokyonight" /> </div>
