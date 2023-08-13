@@ -66,7 +66,7 @@
 <tr>
 <td valign="top">
 
-[<img src="https://netease-recent-profile.vercel.app/?id=1823479678&size=60" alt="Netease recently played" title="Netease recently played">](https://netease-recent-profile.vercel.app/?id=1823479678&theme=card&show_random=1&size=300)
+[<img src="https://netease-recent-profile.vercel.app/?id=1823479678&theme=card&show_random=1&size=300" alt="Netease recently played" title="Netease recently played">](https://netease-recent-profile.vercel.app/?id=1823479678&theme=card&show_random=1&size=300)
 
 </td>
 </tr>
