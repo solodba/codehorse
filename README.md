@@ -54,6 +54,7 @@
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
 | [devcloud](https://github.com/solodba/devcloud) | ![](https://img.shields.io/github/stars/solodba/devcloud?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/devcloud?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 自研研发云平台 |
+| [vblog](https://github.com/solodba/vblog) | ![](https://img.shields.io/github/stars/solodba/vblog?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/vblog?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 自研博客系统 |
 
 
 ### :basecampy: GitHub最近动态
