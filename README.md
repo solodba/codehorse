@@ -66,7 +66,7 @@
 <tr>
 <td valign="top">
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=316286554&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=350)](https://music.163.com/#/user/home?id=316286554)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=1823479678&type=0&size=60)](https://netease-recent-profile.vercel.app/?id=1823479678&type=0&size=60)
 
 </td>
 </tr>
