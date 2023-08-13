@@ -131,16 +131,3 @@
 </table>
 
 </details>
-
-### 🦚 B站与知乎
-
-<details open>
-<summary>点击展开 ...</summary>
-
-<div align="center">
-
-[![](https://stats.justsong.cn/api/bilibili/?id=237149104)](https://space.bilibili.com/237149104)
-[![](https://stats.justsong.cn/api/zhihu?username=eryajf)](https://www.zhihu.com/people/eryajf)
-</div>
-
-</details>
