@@ -57,6 +57,7 @@
 | [mcube](https://github.com/solodba/mcube) | ![](https://img.shields.io/github/stars/solodba/mcube?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/mcube?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 公共代码仓库 |
 | [vblog](https://github.com/solodba/vblog) | ![](https://img.shields.io/github/stars/solodba/vblog?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/vblog?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 自研博客系统 |
 | [mysql-operator](https://github.com/solodba/mysql-operator) | ![](https://img.shields.io/github/stars/solodba/mysql-operator?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/mysql-operator?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 数据库备份的k8s operator |
+| [exporter](https://github.com/solodba/exporter) | ![](https://img.shields.io/github/stars/solodba/exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/exporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | prometheus exporter |
 
 
 ### :basecampy: GitHub最近动态
