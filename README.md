@@ -39,9 +39,6 @@
 [![codehorse's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=solodba&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=solodba&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=solodba&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=solodba&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 [![profile](https://github-profile-trophy.vercel.app/?username=solodba&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=solodba&theme=algolia&column=8)
-
-
-
 </div>
 
 </details>
@@ -59,31 +56,6 @@
 | [mysql-operator](https://github.com/solodba/mysql-operator) | ![](https://img.shields.io/github/stars/solodba/mysql-operator?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/mysql-operator?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 数据库备份的k8s operator |
 | [exporter](https://github.com/solodba/exporter) | ![](https://img.shields.io/github/stars/solodba/exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/exporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | prometheus exporter |
 | [mkube-web](https://github.com/solodba/mkube-web) | ![](https://img.shields.io/github/stars/solodba/mkube-web?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/mkube-web?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | k8s运维管理前端项目 |
-
-
-### :basecampy: GitHub最近动态
-
-<details open>
-<summary>点击展开 ...</summary>
-
-<table align="center">
-<tr>
-<td valign="top">
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/9#issuecomment-1676196263) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
-2. ❗ Opened issue [#9](https://github.com/lazyloong/obsidian-fuzzy-chinese/issues/9) in [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
-3. ❗ Opened issue [#1](https://github.com/ljx-0411/jzfw_sys/issues/1) in [ljx-0411/jzfw_sys](https://github.com/ljx-0411/jzfw_sys)
-4. 🔒 Closed issue [#243](https://github.com/solodba/go-ldap-admin/issues/243) in [solodba/go-ldap-admin](https://github.com/solodba/go-ldap-admin)
-5. 🗣 Commented on [#243](https://github.com/solodba/go-ldap-admin/issues/243#issuecomment-1668940823) in [solodba/go-ldap-admin](https://github.com/solodba/go-ldap-admin)
-6. 🗣 Commented on [#243](https://github.com/solodba/go-ldap-admin/issues/243#issuecomment-1668828259) in [solodba/go-ldap-admin](https://github.com/solodba/go-ldap-admin)
-<!--END_SECTION:activity-->
-
-</td>
-</tr>
-</table>
-
-</details>
 
 ### 🎸 最近在听音乐
 
