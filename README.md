@@ -66,7 +66,7 @@
 <tr>
 <td valign="top">
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=1823479678&type=0&size=60)](https://netease-recent-profile.vercel.app/?id=1823479678&type=0&size=60)
+<img src="https://netease-recent-profile.vercel.app/?id=1823479678&size=60" alt="Netease recently played" title="Netease recently played">
 
 </td>
 </tr>
