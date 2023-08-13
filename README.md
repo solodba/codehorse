@@ -1,9 +1,3 @@
-<div align="center">
-
-</div>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=solodba&show_icons=true&theme=tokyonight" /> </div>
-
 ### 👋 Hi there
 
 <div align="center">
