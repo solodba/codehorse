@@ -1,4 +1,12 @@
 <div align="center">
+
+</div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=solodba&show_icons=true&theme=tokyonight" /> </div>
+
+### 👋 Hi there
+
+<div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="[https://blog.sunguoqi.com/](https://github.com/solodba/codehorse)">
@@ -8,21 +16,6 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-</div>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=solodba&show_icons=true&theme=tokyonight" /> </div>
-
-### 👋 Hi there
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg)
-
-
-
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
-width="800"  height="3">
-
 </div>
 
 <img align='right' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
