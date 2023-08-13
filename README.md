@@ -17,7 +17,7 @@
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=solodba)](https://visitor-badge.laobi.icu/badge?page_id=solodba)
 [![Mail Badge](https://img.shields.io/badge/-codehorsemi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:codehorsemi@gmail.com)](mailto:codehorsemi@gmail.com)
-[![](https://img.shields.io/github/stars/solodba?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=solodba&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/stars/connectai-e/dingtalk-openai?color=fefb7b)](https://github.com/connectai-e/dingtalk-openai)
+[![](https://img.shields.io/github/stars/solodba?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=solodba&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/solodba?color=27da6b&logo=Handshake)](https://github.com/solodba?tab=followers)
 
 
