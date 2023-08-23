@@ -56,6 +56,7 @@
 | [mysql-operator](https://github.com/solodba/mysql-operator) | ![](https://img.shields.io/github/stars/solodba/mysql-operator?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/mysql-operator?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 数据库备份的k8s operator |
 | [exporter](https://github.com/solodba/exporter) | ![](https://img.shields.io/github/stars/solodba/exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/exporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | prometheus exporter |
 | [mkube-web](https://github.com/solodba/mkube-web) | ![](https://img.shields.io/github/stars/solodba/mkube-web?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/mkube-web?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | k8s运维管理前端项目 |
+| [mysql-install](https://github.com/solodba/mysql_install) | ![](https://img.shields.io/github/stars/solodba/mysql_install?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/mysql_install?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | mysql安装程序 |
 
 ### 🎸 最近在听音乐
 
