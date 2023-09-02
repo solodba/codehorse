@@ -58,7 +58,7 @@
 | [mkube-web](https://github.com/solodba/mkube-web) | ![](https://img.shields.io/github/stars/solodba/mkube-web?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/mkube-web?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | k8s运维管理前端项目 |
 | [mysql-install](https://github.com/solodba/mysql_install) | ![](https://img.shields.io/github/stars/solodba/mysql_install?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/mysql_install?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | mysql安装程序 |
 | [binlog-parser](https://github.com/solodba/binlog_parser) | ![](https://img.shields.io/github/stars/solodba/binlog_parser?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/binlog_parser?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | mysql binlog解析器 |
-| [binlog-parser](https://github.com/solodba/ms_install) | ![](https://img.shields.io/github/stars/solodba/ms_install?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/ms_install?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | mysql主从安装程序 |
+| [ms-install](https://github.com/solodba/ms_install) | ![](https://img.shields.io/github/stars/solodba/ms_install?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/ms_install?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | mysql主从安装程序 |
 
 ### 🎸 最近在听音乐
 
