@@ -59,7 +59,7 @@
 | [mysql-install](https://github.com/solodba/mysql_install) | ![](https://img.shields.io/github/stars/solodba/mysql_install?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/mysql_install?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | mysql安装程序 |
 | [binlog-parser](https://github.com/solodba/binlog_parser) | ![](https://img.shields.io/github/stars/solodba/binlog_parser?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/binlog_parser?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | mysql binlog解析器 |
 | [ms-install](https://github.com/solodba/ms_install) | ![](https://img.shields.io/github/stars/solodba/ms_install?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/ms_install?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | mysql主从安装程序 |
-| [dbexporter](github.com/solodba/dbexporter) | ![](https://img.shields.io/github/stars/solodba/dbexporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/dbexporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | mysql监控数据采集exporter |
+| [dbexporter](https://github.com/solodba/dbexporter) | ![](https://img.shields.io/github/stars/solodba/dbexporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/solodba/dbexporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | mysql监控数据采集exporter |
 
 ### 🎸 最近在听音乐
 
